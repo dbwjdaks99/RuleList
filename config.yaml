@@ -55,5 +55,4 @@ tasks:
     type: "ipcidr"
     format: "text"
     sources:
-      - url: "https://github.com/MetaCubeX/meta-rules-dat/raw/meta/geo/geoip/cn.list"
-      - url: "https://github.com/MetaCubeX/meta-rules-dat/raw/meta/geo/geoip/private.list"
+      - url: "https://github.com/Hackl0us/GeoIP2-CN/raw/release/CN-ip-cidr.txt"
